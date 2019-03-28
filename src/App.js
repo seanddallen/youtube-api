@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import './App.css';
 import SearchBar from './components/SearchBar'; 
-import youtube from '../apis/youtube';
-import VideoList from './VideoList';
+import youtube from './apis/youtube';
+import VideoList from './components/VideoList';
 
 class App extends Component {
   
